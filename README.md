@@ -1,7 +1,4 @@
 # AI-Trading-Bot
-This repository contains a smart contract-based trading bot for Ethereum-based tokens, designed to interact with decentralized exchanges (DEXs) such as Uniswap and GMX. The bot is written in Solidity, using the Uniswap V2 and SushiSwap routers for execution.
-
-# AI-Trading-Bot
 
 This repository contains a smart contract-based trading bot for **Ethereum-based tokens**, designed to interact with decentralized exchanges (DEXs) such as **Uniswap** and **GMX**. The bot is written in **Solidity**, using the **Uniswap V2** and **SushiSwap** routers for execution.
 
